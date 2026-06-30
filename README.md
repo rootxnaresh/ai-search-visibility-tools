@@ -304,6 +304,3 @@ Seen a tool missing or an entry out of date? Open a PR or file an issue — plea
 
 Please keep entries factual and vendor-neutral. This list is not a ranking — tools within each section are sorted alphabetically.
 
----
-
-*Inspired by [izak-fisher/generative-engine-optimization-tools](https://github.com/izak-fisher/generative-engine-optimization-tools). Licensed under [CC0](LICENSE).*
