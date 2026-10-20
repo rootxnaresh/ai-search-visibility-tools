@@ -486,7 +486,7 @@ Traditional SEO tools that have added AI search visibility as a native layer - u
 
 - **[Nightwatch](https://nightwatch.io/)** - The most complete combined platform: LLM monitoring + the searches AI systems run for real-time answers + prompt research + citation-level sentiment analysis + traditional SEO rank tracking - all in one dashboard starting at $32/mo. 14-day free trial. Covers Google AI Overviews, ChatGPT, Claude, and Perplexity. Also includes keyword research, site audit, local rank tracking, and an SEO AI Agent.
 
-- **[Nozzle](https://nozzle.io)** - Enterprise SERP and keyword rank tracker with Google AI Overviews tracking.
+- **[Nozzle](https://nozzle.io)** - Enterprise SERP and keyword rank tracker. AI coverage is limited to Google AI Overviews (parsed into citations); no ChatGPT or other chatbot tracking.
 
 - **[ProRankTracker](https://proranktracker.com)** - Daily top-100 SEO and AI (GEO) rank tracking and reporting for agencies and freelancers.
 
