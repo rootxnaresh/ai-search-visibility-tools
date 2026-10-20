@@ -520,6 +520,8 @@ Traditional SEO tools that have added AI search visibility as a native layer - u
 
 - **[AI Monitor](https://getaimonitor.com/)** - The world's first open-source tool for tracking brand mentions in AI answers. Self-hostable. Covers ChatGPT, Google AI Overview, and Perplexity.
 
+- **[AnswerLens](https://app.sfdj.net/)** - Free public-evidence audit for B2B SaaS sites. Checks crawlable pages, `llms.txt`, pricing, comparison, and proof pages.
+
 - **[AutoGEO](https://github.com/cxcscmu/AutoGEO)** - Open-source automated framework from Carnegie Mellon University that learns what generative search engines prefer and rewrites content accordingly. Achieves up to 50% improvement in generative search visibility while maintaining engine utility. API version with no additional service fees.
 
 - **[Elmo](https://elmohq.com)** - Open-source AEO and AI visibility tracker; use the hosted cloud or self-host.
@@ -654,5 +656,4 @@ Seen a tool missing or an entry out of date? Open a PR or file an issue - please
 - Which AI engines it covers
 
 Please keep entries factual and vendor-neutral. This list is not a ranking - tools within each section are sorted alphabetically.
-
 
