@@ -358,6 +358,8 @@ Standalone platforms focused on measuring how your brand appears in AI-generated
 
 - **[Meridian](https://trymeridian.com)** - AI search visibility platform (GEO and AEO).
 
+- **[MessGEO](https://messgeo.com/)** - Daily prompt tracking across ChatGPT, Gemini, Copilot, Perplexity, Google AI Overviews and AI Mode, with share of voice, competitor comparison and alerts. Interface in English, Portuguese and Turkish. From €49/mo; 25 free credits on sign-up.
+
 - **[Minddex](https://minddex.ai)** - French-market GEO platform with a GEO academy.
 
 - **[MyBrandi](https://mybrandi.ai)** - AI visibility and generative engine optimization (Brandi AI).
