@@ -308,6 +308,8 @@ Standalone platforms focused on measuring how your brand appears in AI-generated
 
 - **[GeoVector](https://www.geovector.ai)** - Multi-engine tracking wired into Search Console, Google Ads, and Analytics.
 
+- **[Get AI Vizible](https://getvizible.online/)** - Daily AI visibility tracking across ChatGPT, Claude, Gemini, Perplexity, Grok, DeepSeek and Google AI Mode: mentions, citations, share of voice and alerts for wrong facts, plus Google SEO tools. From $99/mo; 7-day trial for $10.
+
 - **[GetMentioned](https://www.getmentioned.co)** - Topic-level AI visibility tracking with a brand perception module.
 
 - **[GoVISIBLE](https://govisible.ai)** - GEO platform organized around a published seven-pillar framework.
