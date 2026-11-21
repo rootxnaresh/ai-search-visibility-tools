@@ -506,6 +506,8 @@ Traditional SEO tools that have added AI search visibility as a native layer - u
 
 - **[Siteimprove](https://siteimprove.com)** - Content-intelligence suite (accessibility, analytics, SEO) with AEO insights for AI visibility.
 
+- **[SupaSEO](https://supaseo.dev)** - Local SEO and AI citation tracking in one tool: Google Maps rank grids, Google organic results, and AI citations across ChatGPT, Perplexity, Gemini, Claude, Copilot, and Google AI Overviews. Runs on your own provider keys. One-time $61 license.
+
 - **[Surfer SEO](https://surferseo.com/)** - AI citation tracking added to Surfer's content optimization editor and topical mapping. Ideal for content teams already optimizing in Surfer who want AI visibility data alongside their existing scores.
 
 - **[Ubersuggest](https://ubersuggest.com)** - Neil Patel's SEO tool suite, positioned for both SEO and AI search visibility.
