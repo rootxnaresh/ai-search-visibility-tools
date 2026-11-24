@@ -302,6 +302,8 @@ Standalone platforms focused on measuring how your brand appears in AI-generated
 
 - **[GEO Metrics](https://www.trygeometrics.com)** - Share of Model tracking across many engines, with hallucination correction.
 
+- **[GEOflux](https://www.geoflux.ai/)** - Tracks brand mentions, Share of Voice, sentiment and cited sources across 8 AI engines (ChatGPT, Gemini, Perplexity, Claude, Grok, Copilot, Google AI Mode, AI Overviews). Free plan; paid from $99/mo.
+
 - **[Geometrika](https://geometrika.dev/en)** - All-in-one AI Search and LLM Search Analytics tool. 4 core metrics, 7 main systems to track, competitor back-to-back analysis, keyword and prompt AI suggestions, and fully customizable scheduling. Credit-based pricing from €80 - no subscription required. Optional plans at €80/mo, €500/mo, or fully dedicated enterprise.
 
 - **[GEO Toolbox](https://geotoolbox.ai)** - AI visibility tool for getting your brand cited by AI.
